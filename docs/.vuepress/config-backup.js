@@ -135,6 +135,10 @@ const sidebar = {
                   'Amazon AWS',
                 ],
                 [
+                  '/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/artifakt.md',
+                  'Artifakt',
+                ],
+                [
                   '/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/azure.md',
                   'Azure',
                 ],
