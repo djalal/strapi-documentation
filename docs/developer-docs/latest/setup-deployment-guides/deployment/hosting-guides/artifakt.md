@@ -31,7 +31,7 @@ As for Strapi, the default deployment options use a persistent disk to enable de
 * **Uploads** – Assets can be uploaded, and also part of the persistent volume.
 
 ### Strapi Logs
-The Strapi application logs are stored in CloudWatch Logs. Logs can be monitored from the Fargate console under tasks. The default log retention is 90 days.
+The Strapi application logs are stored in the Console. Logs can be monitored from the "Logs" tab in real-time. The default log retention is 90 days.
 
 ## Deploy Strapi Infrastructure
 Artifakt provides a built-in environment template that provisions the necessary infrastructure to run Strapi on your AWS account in a scalable, secure, and reliable way with zero downtime deployment.
